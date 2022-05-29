@@ -1,4 +1,4 @@
-## Salve! Me chamo Diego Silva Oliveira e sou desevolvedor web, designer gráfico e amante da tecnologia! 🚀
+## Salve! Me chamo Diego Silva de Oliveira e sou desevolvedor web, designer gráfico e amante da tecnologia! 🚀
 
 <p> Iniciei meus estudos em design no ano de 2017 com o uso do Adobe Photoshop e simplesmente adorei, expandi meus conhecimentos com o After Effects e Illustrator em 2020 juntamente com a pandemia. Além disso, entrei na área de desenvolvimento com a minha entrada na Etec Bartolomeu, cursando Informática para Web, aprendendo principalmente PHP, MySQL, JS, HTML e CSS.</p>
 
