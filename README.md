@@ -1,8 +1,16 @@
-## Salve! Me chamo Diego Silva de Oliveira e sou desevolvedor web, designer gráfico e amante da tecnologia! 🚀
+## Salve! Tudo bem? 🚀
 
-<p> Iniciei meus estudos em design no ano de 2017 com o uso do Adobe Photoshop e simplesmente adorei, expandi meus conhecimentos com o After Effects e Illustrator em 2020 juntamente com a pandemia. Além disso, entrei na área de desenvolvimento com a minha entrada na Etec Bartolomeu, cursando Informática para Web, aprendendo principalmente PHP, MySQL, JS, HTML e CSS.</p>
+<p>
 
-<p> Minha carreira está apenas começando e estou sempre em busca de aprender mais! 🐱‍💻 </p>
+Me chamo Diego Oliveira, tenho 18 anos de idade, quase 3 anos de experiência como freelancer nas áreas de Design Gráfico, Motion Graphics e desenvolvimento front-end. 
+
+Em Design Gráfico , atuei na criação de logotipos, impressos, social media dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando tecnologias Adobe Photoshop e Adobe Illustrator.
+
+Já em Motion Graphics , trabalhei principalmente na criação de lyrics video, além da criação de pequenas introduções. Operando no Adobe After Effects.
+
+Por fim, em desenvolvimento front-end, participei em todas as etapas na criação de um web site, desenvolvendo seu layout no Figma e sua programação através de HTML/CSS/JS.
+
+Minha carreira está apenas começando e estou sempre em busca de aprender mais! 🥇</p>
 
 <div align="center">
   <a href="https://github.com/diegoliveiradev">
