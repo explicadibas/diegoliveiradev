@@ -8,7 +8,10 @@ Saudações! Meu nome é Diego Oliveira e sou estudante de Ciência de Dados com
 Como aspirante a cientista de dados, gosto de encontrar maneiras criativas de visualizar e compartilhar informações importantes a partir de dados complexos. Com minha habilidade em design, posso criar gráficos e visualizações que são fáceis de entender e ajudam a contar histórias interessantes a partir dos dados.
 
 Meu objetivo é ajudar empresas e organizações a tirar o máximo proveito de seus dados para tomar melhores decisões e alcançar seus objetivos. Acredito que a combinação de habilidades em ciência de dados e design é fundamental para atingir esse objetivo. Além disso, estou sempre procurando novas maneiras de aprender e crescer na minha carreira, mantendo-me atualizado com as tendências do mercado.
-Estou animado para trabalhar em projetos que possam ter um impacto positivo e acredito que minha combinação única de habilidades pode ser uma grande vantagem para qualquer equipe. Se você procura um profissional em Ciência de Dados com conhecimentos em Design Gráfico e está procurando alguém que trabalhe duro e entregue excelentes resultados, sinta-se à vontade para entrar em contato comigo. Adoraria conversar e discutir como posso ajudar a atingir seus objetivos. Segue o link das redes abaixo 👇
+
+Estou animado para trabalhar em projetos que possam ter um impacto positivo e acredito que minha combinação única de habilidades pode ser uma grande vantagem para qualquer equipe. Se você procura um profissional em Ciência de Dados com conhecimentos em Design Gráfico e está procurando alguém que trabalhe duro e entregue excelentes resultados, sinta-se à vontade para entrar em contato comigo. Adoraria conversar e discutir como posso ajudar a atingir seus objetivos. 
+Segue o link das redes abaixo 👇
+  
 linktr.ee/diegoliveira.dev
 
 
