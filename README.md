@@ -1,16 +1,18 @@
-## Salve! Tudo bem? 🚀
+## Saudações! Tudo bem? 🚀
 
 <p>
 
-Me chamo Diego Oliveira, tenho 18 anos de idade, quase 3 anos de experiência como freelancer nas áreas de Design Gráfico, Motion Graphics e desenvolvimento front-end. 
 
-Em Design Gráfico , atuei na criação de logotipos, impressos, social media dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando tecnologias Adobe Photoshop e Adobe Illustrator.
+Saudações! Meu nome é Diego Oliveira e sou estudante de Ciência de Dados com habilidades em Design Gráfico. Sempre gostei de trabalhar com dados e de criar imagens e designs atraentes.
+  
+Como aspirante a cientista de dados, gosto de encontrar maneiras criativas de visualizar e compartilhar informações importantes a partir de dados complexos. Com minha habilidade em design, posso criar gráficos e visualizações que são fáceis de entender e ajudam a contar histórias interessantes a partir dos dados.
 
-Já em Motion Graphics , trabalhei principalmente na criação de lyrics video, além da criação de pequenas introduções. Operando no Adobe After Effects.
+Meu objetivo é ajudar empresas e organizações a tirar o máximo proveito de seus dados para tomar melhores decisões e alcançar seus objetivos. Acredito que a combinação de habilidades em ciência de dados e design é fundamental para atingir esse objetivo. Além disso, estou sempre procurando novas maneiras de aprender e crescer na minha carreira, mantendo-me atualizado com as tendências do mercado.
+Estou animado para trabalhar em projetos que possam ter um impacto positivo e acredito que minha combinação única de habilidades pode ser uma grande vantagem para qualquer equipe. Se você procura um profissional em Ciência de Dados com conhecimentos em Design Gráfico e está procurando alguém que trabalhe duro e entregue excelentes resultados, sinta-se à vontade para entrar em contato comigo. Adoraria conversar e discutir como posso ajudar a atingir seus objetivos. Segue o link das redes abaixo 👇
+linktr.ee/diegoliveira.dev
 
-Por fim, em desenvolvimento front-end, participei em todas as etapas na criação de um web site, desenvolvendo seu layout no Figma e sua programação através de HTML/CSS/JS.
 
-Minha carreira está apenas começando e estou sempre em busca de aprender mais! 🥇</p>
+</p>
 
 <div align="center">
   <a href="https://github.com/diegoliveiradev">
